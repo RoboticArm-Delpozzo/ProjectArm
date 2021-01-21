@@ -1,0 +1,3 @@
+- recognize people: https://www.codespeedy.com/face-recognition-from-video-in-python-using-opencv/
+- message API: https://www.twilio.com/docs/sms/quickstart/python
+- servo motore: https://howtoraspberrypi.com/servo-raspberry-pi/
