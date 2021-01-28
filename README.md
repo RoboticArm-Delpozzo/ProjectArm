@@ -15,4 +15,4 @@
 + Write almost all of the code to: use raspberry pi camera to detect faces, capture the passerby's photo and store it, send the photo by email.
   Programs are into the "source" directory.
 + Print a test object using the 3d printer.
-
+![3dPrinter](/Downloads/3dPrinter.jpg "Our 3d printer")
