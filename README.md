@@ -7,7 +7,7 @@
 # LogBook
 
 ## - **01/21/2021**
-+ Define our idea (find it in IDEA.md) and how to improve it (BASEMENT.md).
++ Define our idea and how to improve it (it is all into "IDEA.md").
 + Start to design our roboric arm, starting from the support base (find it in the "3d models" directory).
 
 ## - **01/28/2021**
