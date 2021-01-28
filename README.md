@@ -7,12 +7,12 @@
 # LogBook
 
 ## - **01/21/2021**
-Define our idea (find it in IDEA.md) and how to improve it (BASEMENT.md).
-Start to design our roboric arm, starting from the support base (find it in the "3d models" directory).
++ Define our idea (find it in IDEA.md) and how to improve it (BASEMENT.md).
++ Start to design our roboric arm, starting from the support base (find it in the "3d models" directory).
 
 ## - **01/28/2021**
-Redesign our support base to make it a little thicker (the first version was too slim to hold the arm.
-Write almost all of the code to: use raspberry pi camera to detect faces, capture the passerby's photo and store it, send the photo by email.
-Programs are into the "source" directory.
-Print a test object using the 3d printer.
++ Redesign our support base to make it a little thicker (the first version was too slim to hold the arm.
++ Write almost all of the code to: use raspberry pi camera to detect faces, capture the passerby's photo and store it, send the photo by email.
+  Programs are into the "source" directory.
++ Print a test object using the 3d printer.
 
