@@ -16,3 +16,9 @@
   Programs are into the "source" directory.
 + Print a test object using the 3d printer.
 
+## - **02/04/2021 **
++ Code debugging
+
+## - **02/11/2021**
++ Complete the robot base
++ Search for information about raspberryPi servomotor
