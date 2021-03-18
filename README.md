@@ -22,3 +22,7 @@
 ## - **02/11/2021**
 + Complete the robot base
 + Search for information about raspberryPi servomotor
+
+## - **03/18/2021**
++ complete and test code
++ adjust hardware components
