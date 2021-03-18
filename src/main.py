@@ -17,8 +17,7 @@ class MyThread (threading.Thread):
       if self.threadNumber == 0:
           faceDetection()
       elif self.threadNumber == 1:
-          #rotate()
-          pass
+          rotate()
       print ("Thread '" + str(self.threadNumber) + "' ended")
       # Rilascio del lock
       #threadLock.release()
