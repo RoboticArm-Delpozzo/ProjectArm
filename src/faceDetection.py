@@ -55,7 +55,6 @@ def faceDetection():
         
         if cpu.temperature >= LIM_TEMPERATURE:
             sleep(MINUTE)
-        print(cpu.temperature)
      
     # close all windows
     cv2.destroyAllWindows()
