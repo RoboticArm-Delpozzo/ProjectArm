@@ -26,3 +26,12 @@
 ## - **03/18/2021**
 + complete and test code
 + adjust hardware components
+
+## - **04/08/2021**
++ testing and debug
++ start arm assembly
+
+## - **04/015/2021**
++ end arm assembly
++ testing
++ figure out new features (mhz19 or Tello...)
