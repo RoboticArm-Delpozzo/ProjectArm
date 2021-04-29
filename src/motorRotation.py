@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 import time
 
-control_pin = 12
+control_pin = 16
 
 def rotate():
     GPIO.setmode(GPIO.BCM)
@@ -14,11 +14,11 @@ def rotate():
             if timer%2 == 0:
                 for i in range(0, 180, 50):
                     p.ChangeDutyCycle(1/18* (i) + 2.5)
-                    time.sleep(1)
+                    time.sleep(5)
             else:
                 for i in range(180, 0, -50):
                     p.ChangeDutyCycle(1/18* (i) + 2.5)
-                    time.sleep(1)
+                    time.sleep(5)
                 
             timer += 1
             

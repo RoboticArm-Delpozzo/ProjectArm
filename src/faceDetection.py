@@ -19,10 +19,10 @@ def faceDetection():
     # keep looping
     while True:
         now_time = datetime.datetime.now()
-
+        
         # grab the current frame
         ret, frame = vs.read()
-
+        frame = cv2.flip(frame,-1)
         # if we are viewing a video and we did not grab a frame,
         # then we have reached the end of the video
         if frame is None:
@@ -34,7 +34,7 @@ def faceDetection():
             cv2.rectangle(frame, (x, y), (x+w, y+h), (255, 0, 0), 2)
 
         # show the frame to our screen
-        cv2.imshow("Video", frame)
+        
         key = cv2.waitKey(1) & 0xFF
 
         try:
