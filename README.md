@@ -37,4 +37,4 @@
 + figure out new features (mhz19 or Tello...)
 
 ## - **04/29/2021**
-+ try to run the arm (unspecified pin error)
++ try to run the arm (unexpected pin error)
