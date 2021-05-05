@@ -31,7 +31,10 @@
 + testing and debug
 + start arm assembly
 
-## - **04/015/2021**
+## - **04/15/2021**
 + end arm assembly
 + testing
 + figure out new features (mhz19 or Tello...)
+
+## - **04/29/2021**
++ try to run the arm (unspecified pin error)
