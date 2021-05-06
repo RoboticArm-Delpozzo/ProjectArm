@@ -28,12 +28,12 @@
 + adjust hardware components
 
 ## - **04/08/2021**
-+ testing and debug
++ testing and debugging
 + start arm assembly
 
 ## - **04/15/2021**
 + end arm assembly
-+ testing
++ robot testing (it works)
 + figure out new features (mhz19 or Tello...)
 
 ## - **04/22/2021**
