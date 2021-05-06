@@ -36,7 +36,7 @@
 + testing
 + figure out new features (mhz19 or Tello...)
 
-## - **04/29/2021**
+## - **04/22/2021**
 + find out what new sensor we want to use: pushbutton to manually turn off the robot
 + serch on the internet useful materials (such as codes or guide to implement new features)
 
