@@ -42,3 +42,7 @@
 
 ## - **04/29/2021**
 + try to run the arm (unexpected pin error)
+
+## - **05/20/2021**
++ fix the pin error
++ complete and present our project
